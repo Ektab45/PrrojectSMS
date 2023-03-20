@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/dao/impl/StudentDAOImpl.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/LoginPage.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/controller/UserController.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/dao/impl/UserDAOImpl.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/dbconfig/DatabaseConnection.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/dao/StudentDAO.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/model/StudentModel.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/StsDash.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/model/UserModel.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/model/AdminModel.java</file>
+            <file>file:/C:/Users/Lenovo/Documents/NetBeansProjects/login/src/dao/UserDAO.java</file>
+        </group>
+    </open-files>
+</project-private>
